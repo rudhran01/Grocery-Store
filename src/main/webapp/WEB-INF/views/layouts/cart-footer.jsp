@@ -46,7 +46,7 @@
 	<!-- copyright -->
 	<div class="copy-right py-3">
 		<div class="container">
-			<p class="text-center text-white">� 2022 sky-coding-Shop. All rights reserved.</p>
+			<p class="text-center text-white"> 2022 sky-Shop. All rights reserved.</p>
 		</div>
 	</div>
 	<!-- //copyright -->
